@@ -1,0 +1,31 @@
+
+.container{
+    margin-bottom: 100px;
+    border-radius: 5px;
+}
+.orange-bg{
+
+    background-color: white;
+    border-radius: 10px;
+}
+.carousel-item{
+
+    padding: 10px 20px;
+}
+.buy-now{
+    background-color: black;
+    border-radius: 5px;
+
+color:white;
+
+}
+.categories{
+text-align: center;
+
+}
+.bag{
+  background-color: ghostwhite;
+  border-radius: 5px ;
+  padding: 5px 2px;
+
+}
